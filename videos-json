@@ -1,0 +1,271 @@
+{
+  "schemaVersion": "1.0",
+  "player": {
+    "name": "Deck",
+    "brand": "GNA",                                                                                                                                                                                              
+    "defaultView": "feature"
+  },
+  "feature": {
+    "platform": "youtube",
+    "videoId": "OtQwpIo99xs",
+    "title": "Odwira @ 200: Akuapems return home to reconnect, reconcile, and reimagine their future",
+    "category": "Politics",
+    "date": "October 11, 2026",
+    "aspectRatio": "16:9"
+  },
+  "videos": [
+    {
+      "id": "deck-001",
+      "platform": "youtube",
+      "videoId": "R7gcEjw7NU4",
+      "title": "Fiscal Discipline: Ghana now doing infrastructural projects without borrowing",
+      "date": "October 11, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 1
+    },
+    {
+      "id": "deck-002",
+      "platform": "youtube",
+      "videoId": "gveWinYr5jI",
+      "title": "Ghana-China trade: Importers can now pay in Cedis from Ghana",
+      "date": "October 7, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 2
+    },
+    {
+      "id": "deck-003",
+      "platform": "youtube",
+      "videoId": "IDPqsX_6KW0",
+      "title": "Trade Surplus reaches $8.85bn in Year to August 2026, up from $6.69bn last year",
+      "date": "October 7, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 3
+    },
+    {
+      "id": "deck-004",
+      "platform": "youtube",
+      "videoId": "PVG6ztYCdHc",
+      "title": "President Mahama on Cultural Properties, Restitution and Reparatory Justice",
+      "date": "September 29, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 4
+    },
+    {
+      "id": "deck-005",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/2952885241723851/",
+      "title": "Deputy Minister for Agric responds to reports of tomato crop glut in Volta",
+      "date": "September 21, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 5
+    },
+    {
+      "id": "deck-006",
+      "platform": "youtube",
+      "videoId": "apGnEvKxVzA",
+      "title": "Minister commends Mr Albert Kofi Owusu for effective leadership at GNA",
+      "date": "September 17, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 6
+    },
+    {
+      "id": "deck-007",
+      "platform": "youtube",
+      "videoId": "uUhtIB6KM8s",
+      "title": "Accra–Kumasi Expressway to cut travel time to 2 hours — Mahama",
+      "date": "September 14, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 7
+    },
+    {
+      "id": "deck-008",
+      "platform": "youtube",
+      "videoId": "NV4zOMkcOsU",
+      "title": "Chief of Kwaso lauds Mahama for Accra–Kumasi Expressway Project",
+      "date": "September 14, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 8
+    },
+    {
+      "id": "deck-009",
+      "platform": "youtube",
+      "videoId": "iRpUL38abQQ",
+      "title": "\"Is this achievable?\": Dr Forson reacts to 20 weeks Mission timeline - Brig. Gen. Wiafe",
+      "date": "September 14, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 9
+    },
+    {
+      "id": "deck-010",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1779454436531824/",
+      "title": "Highlights: Handing-over of Accra–Kumasi Expressway Project at Kwaso",
+      "date": "September 14, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 10
+    },
+    {
+      "id": "deck-011",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1844749013187879/",
+      "title": "National Peace Council engages Traditional Authorities",
+      "date": "September 8, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 11
+    },
+    {
+      "id": "deck-012",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/4344186232508233/",
+      "title": "Protecting the public purse, Restoring confidence...",
+      "date": "September 1, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 12
+    },
+    {
+      "id": "deck-013",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1394240025543696/",
+      "title": "GNA's new Governing Board to enhance global competitiveness",
+      "date": "August 24, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 13
+    },
+    {
+      "id": "deck-014",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1631267765092002/",
+      "title": "NMC Chairperson Prof Akua Opokua Britwum affirms national relevance of GNA",
+      "date": "August 24, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 14
+    },
+    {
+      "id": "deck-015",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/2599673397130064/",
+      "title": "Ghanaian citizens evacuated from South Africa arrive in Accra",
+      "date": "August 24, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 15
+    },
+    {
+      "id": "deck-016",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/2138407877003292/",
+      "title": "Jubilant supporters thronged the streets following Ghana's 1–0 victory over Panama",
+      "date": "June 18, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 16
+    },
+    {
+      "id": "deck-017",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/880505291125861/",
+      "title": "The moment fans of the Black Stars erupted as Ghana scored against Panama",
+      "date": "June 18, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 17
+    },
+    {
+      "id": "deck-018",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/3597557240394795/",
+      "title": "Supporters gather at Independence Square to watch match between Ghana and Panama",
+      "date": "June 17, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 18
+    },
+    {
+      "id": "deck-019",
+      "platform": "youtube",
+      "videoId": "UtFOqZjwZk0",
+      "title": "Doing laundry on Accra city streets must stop now",
+      "date": "June 10, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 19
+    },
+    {
+      "id": "deck-020",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/3964831807152077/",
+      "title": "Asamoah Gyan unveiled as brand ambassador for colts football",
+      "date": "May 22, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 20
+    },
+    {
+      "id": "deck-021",
+      "platform": "youtube",
+      "videoId": "9ntNgPTq8Po",
+      "title": "Python eggs from Ahodwo hatch safely at Kumasi Zoo",
+      "date": "May 21, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 21
+    },
+    {
+      "id": "deck-022",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1577022230713970/",
+      "title": "Residents express frustration after closure of Kaneshie footbridge for repairs",
+      "date": "May 18, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 22
+    },
+    {
+      "id": "deck-023",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1384303526824475/",
+      "title": "How does Bank of Ghana's Monetary Policy Committee decide its Rate?",
+      "date": "May 16, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 23
+    }
+  ]
+}
