@@ -45,7 +45,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 4
+      "sortOrder": 5
     },
     {
       "id": "deck-003",
@@ -56,7 +56,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 5
+      "sortOrder": 4
     },
     {
       "id": "deck-004",
