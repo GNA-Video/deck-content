@@ -202,17 +202,6 @@
       "sortOrder": 17
     },
     {
-      "id": "deck-021",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/3964831807152077/",
-      "title": "Asamoah Gyan unveiled as brand ambassador for colts football",
-      "date": "May 22, 2026",
-      "aspectRatio": "9:16",
-      "featured": false,
-      "status": "published",
-      "sortOrder": 18
-    },
-    {
       "id": "deck-022",
       "platform": "youtube",
       "videoId": "9ntNgPTq8Po",
@@ -221,7 +210,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 19
+      "sortOrder": 18
     },
     {
       "id": "deck-023",
@@ -232,7 +221,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 20
+      "sortOrder": 19
     },
     {
       "id": "deck-024",
@@ -243,7 +232,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 21
+      "sortOrder": 20
     }
   ]
 }
