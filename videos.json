@@ -15,6 +15,17 @@
   },
   "videos": [
     {
+      "id": "deck-025",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1099020213039167/",
+      "title": "The British Museum must be part of Reparative Justice: Lord Paul Boateng",
+      "date": "October 18, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 2
+    },
+    {
       "id": "deck-001",
       "platform": "youtube",
       "videoId": "lUBDQD0yZDk",
@@ -23,7 +34,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 1
+      "sortOrder": 3
     },
     {
       "id": "deck-002",
@@ -34,7 +45,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 2
+      "sortOrder": 4
     },
     {
       "id": "deck-003",
@@ -45,7 +56,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 3
+      "sortOrder": 5
     },
     {
       "id": "deck-004",
@@ -56,7 +67,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 4
+      "sortOrder": 6
     },
     {
       "id": "deck-005",
@@ -67,7 +78,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 5
+      "sortOrder": 1
     },
     {
       "id": "deck-006",
@@ -78,7 +89,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 6
+      "sortOrder": 7
     },
     {
       "id": "deck-007",
@@ -89,7 +100,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 7
+      "sortOrder": 8
     },
     {
       "id": "deck-008",
@@ -100,7 +111,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 8
+      "sortOrder": 9
     },
     {
       "id": "deck-009",
@@ -111,7 +122,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 9
+      "sortOrder": 10
     },
     {
       "id": "deck-010",
@@ -122,7 +133,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 10
+      "sortOrder": 11
     },
     {
       "id": "deck-011",
@@ -130,17 +141,6 @@
       "url": "https://www.facebook.com/reel/1779454436531824/",
       "title": "Highlights: Handing-over of Accra–Kumasi Expressway Project at Kwaso",
       "date": "September 14, 2026",
-      "aspectRatio": "9:16",
-      "featured": false,
-      "status": "published",
-      "sortOrder": 11
-    },
-    {
-      "id": "deck-012",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/1844749013187879/",
-      "title": "National Peace Council engages Traditional Authorities",
-      "date": "September 8, 2026",
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
@@ -191,39 +191,6 @@
       "sortOrder": 16
     },
     {
-      "id": "deck-017",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/2138407877003292/",
-      "title": "Jubilant supporters thronged the streets following Ghana's 1–0 victory over Panama",
-      "date": "June 18, 2026",
-      "aspectRatio": "9:16",
-      "featured": false,
-      "status": "published",
-      "sortOrder": 17
-    },
-    {
-      "id": "deck-018",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/880505291125861/",
-      "title": "The moment fans of the Black Stars erupted as Ghana scored against Panama",
-      "date": "June 18, 2026",
-      "aspectRatio": "9:16",
-      "featured": false,
-      "status": "published",
-      "sortOrder": 18
-    },
-    {
-      "id": "deck-019",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/3597557240394795/",
-      "title": "Supporters gather at Independence Square to watch match between Ghana and Panama",
-      "date": "June 17, 2026",
-      "aspectRatio": "9:16",
-      "featured": false,
-      "status": "published",
-      "sortOrder": 19
-    },
-    {
       "id": "deck-020",
       "platform": "youtube",
       "videoId": "UtFOqZjwZk0",
@@ -232,7 +199,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 20
+      "sortOrder": 17
     },
     {
       "id": "deck-021",
@@ -243,7 +210,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 21
+      "sortOrder": 18
     },
     {
       "id": "deck-022",
@@ -254,7 +221,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 22
+      "sortOrder": 19
     },
     {
       "id": "deck-023",
@@ -265,7 +232,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 23
+      "sortOrder": 20
     },
     {
       "id": "deck-024",
@@ -276,7 +243,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 24
+      "sortOrder": 21
     }
   ]
 }
