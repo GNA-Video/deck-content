@@ -45,7 +45,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 4
+      "sortOrder": 3
     },
     {
       "id": "deck-001",
@@ -56,7 +56,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 6
+      "sortOrder": 4
     },
     {
       "id": "deck-002",
@@ -67,7 +67,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 7
+      "sortOrder": 6
     },
     {
       "id": "deck-003",
@@ -100,7 +100,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 3
+      "sortOrder": 7
     },
     {
       "id": "deck-006",
