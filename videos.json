@@ -16,6 +16,17 @@
   "videos": [
     {
       "id": "deck-026",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1432470362375091/",
+      "title": "We are friends to all, and enemies to none — Preident Mahama",
+      "date": "October 21, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 1
+    },
+    {
+      "id": "deck-026",
       "platform": "youtube",
       "videoId": "cGbn_Nu6roc",
       "title": "ShattaFest26: Sister Afia and Shatta Wale perform their song Jeje",
@@ -23,7 +34,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 1
+      "sortOrder": 2
     },
     {
       "id": "deck-025",
@@ -34,7 +45,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 3
+      "sortOrder": 4
     },
     {
       "id": "deck-001",
@@ -45,7 +56,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 4
+      "sortOrder": 6
     },
     {
       "id": "deck-002",
@@ -56,7 +67,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 5
+      "sortOrder": 7
     },
     {
       "id": "deck-003",
@@ -67,7 +78,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 6
+      "sortOrder": 5
     },
     {
       "id": "deck-004",
@@ -78,7 +89,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 7
+      "sortOrder": 8
     },
     {
       "id": "deck-005",
@@ -89,7 +100,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 2
+      "sortOrder": 3
     },
     {
       "id": "deck-006",
@@ -100,7 +111,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 8
+      "sortOrder": 9
     },
     {
       "id": "deck-007",
@@ -111,7 +122,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 9
+      "sortOrder": 10
     },
     {
       "id": "deck-008",
@@ -122,7 +133,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 10
+      "sortOrder": 11
     },
     {
       "id": "deck-009",
@@ -133,7 +144,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 11
+      "sortOrder": 12
     },
     {
       "id": "deck-010",
@@ -144,7 +155,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 12
+      "sortOrder": 13
     },
     {
       "id": "deck-011",
@@ -155,7 +166,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 13
+      "sortOrder": 14
     },
     {
       "id": "deck-013",
@@ -166,7 +177,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 14
+      "sortOrder": 15
     },
     {
       "id": "deck-014",
@@ -177,24 +188,13 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 15
+      "sortOrder": 16
     },
     {
       "id": "deck-015",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1631267765092002/",
       "title": "NMC Chairperson Prof Akua Opokua Britwum affirms national relevance of GNA",
-      "date": "August 24, 2026",
-      "aspectRatio": "9:16",
-      "featured": false,
-      "status": "published",
-      "sortOrder": 16
-    },
-    {
-      "id": "deck-016",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/2599673397130064/",
-      "title": "Ghanaian citizens evacuated from South Africa arrive in Accra",
       "date": "August 24, 2026",
       "aspectRatio": "9:16",
       "featured": false,
