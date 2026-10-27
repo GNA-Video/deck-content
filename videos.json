@@ -13,7 +13,17 @@
     "date": "October 22, 2026",
     "aspectRatio": "16:9"
   },
-  "videos": [
+  "videos": [ 
+    "id": "deck-027",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/988393060972392/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/10/The-Eyes-of-Ghana-2.jpg",
+      "title": "The Eyes of Ghana: Rev. Chris Hesse on filming life of Kwame Nkrumah",
+      "date": "October 27, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 1
     {
       "id": "deck-026",
       "platform": "facebook",
@@ -24,7 +34,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 1
+      "sortOrder": 2
     },
     {
       "id": "deck-026",
@@ -35,7 +45,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 2
+      "sortOrder": 9
     },
     {
       "id": "deck-025",
@@ -46,7 +56,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 3
+      "sortOrder": 4
     },
     {
       "id": "deck-001",
@@ -57,7 +67,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 4
+      "sortOrder": 7
     },
     {
       "id": "deck-002",
@@ -101,7 +111,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 7
+      "sortOrder": 3
     },
     {
       "id": "deck-006",
@@ -112,7 +122,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 9
+      "sortOrder": 10
     },
     {
       "id": "deck-007",
@@ -123,7 +133,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 10
+      "sortOrder": 11
     },
     {
       "id": "deck-008",
@@ -134,7 +144,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 11
+      "sortOrder": 12
     },
     {
       "id": "deck-009",
@@ -145,7 +155,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 12
+      "sortOrder": 13
     },
     {
       "id": "deck-010",
@@ -156,7 +166,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 13
+      "sortOrder": 14
     },
     {
       "id": "deck-011",
@@ -167,7 +177,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 14
+      "sortOrder": 15
     },
     {
       "id": "deck-013",
@@ -178,7 +188,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 15
+      "sortOrder": 16
     },
     {
       "id": "deck-014",
@@ -189,7 +199,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 16
+      "sortOrder": 17
     },
     {
       "id": "deck-015",
@@ -197,17 +207,6 @@
       "url": "https://www.facebook.com/reel/1631267765092002/",
       "title": "NMC Chairperson Prof Akua Opokua Britwum affirms national relevance of GNA",
       "date": "August 24, 2026",
-      "aspectRatio": "9:16",
-      "featured": false,
-      "status": "published",
-      "sortOrder": 17
-    },
-    {
-      "id": "deck-020",
-      "platform": "youtube",
-      "videoId": "UtFOqZjwZk0",
-      "title": "Doing laundry on Accra city streets must stop now",
-      "date": "June 10, 2026",
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
