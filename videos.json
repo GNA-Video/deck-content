@@ -53,6 +53,7 @@
       "id": "deck-025",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1099020213039167/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/10/Lord-Paul-Boateng.png",
       "title": "The British Museum must be part of Reparative Justice – Lord Paul Boateng",
       "date": "October 18, 2026",
       "aspectRatio": "9:16",
@@ -69,7 +70,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 7
+      "sortOrder": 6
     },
     {
       "id": "deck-002",
@@ -80,7 +81,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 6
+      "sortOrder": 7
     },
     {
       "id": "deck-003",
