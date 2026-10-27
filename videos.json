@@ -15,16 +15,16 @@
   },
   "videos": [
     {
-     "id": "deck-027",
-     "platform": "facebook",
-     "url": "https://www.facebook.com/reel/988393060972392/",
-     "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/10/The-Eyes-of-Ghana-2.jpg",
-     "title": "The Eyes of Ghana: Rev. Chris Hesse on filming life of Kwame Nkrumah",
-     "date": "October 27, 2026",
-     "aspectRatio": "9:16",
-     "featured": false,
-     "status": "published",
-     "sortOrder": 1
+      "id": "deck-027",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/988393060972392/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/10/The-Eyes-of-Ghana-2.jpg",
+      "title": "The Eyes of Ghana: Rev. Chris Hesse on filming life of Kwame Nkrumah",
+      "date": "October 27, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 1
     },
     {
       "id": "deck-026",
@@ -39,7 +39,7 @@
       "sortOrder": 2
     },
     {
-      "id": "deck-026",
+      "id": "deck-028",
       "platform": "youtube",
       "videoId": "cGbn_Nu6roc",
       "title": "ShattaFest26: Sister Afia and Shatta Wale perform their song Jeje",
