@@ -15,6 +15,18 @@
   },
   "videos": [
     {
+      "id": "deck-034",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/2140553916821546/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/James-Talarico.png",
+      "title": "James Talarico becomes the first Democrat elected to the US Senate from Texas in 38 years",
+      "date": "November 4, 2026",
+      "aspectRatio": "9:16",
+      "featured": false,
+      "status": "published",
+      "sortOrder": 1
+    },
+    {
       "id": "deck-033",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1131486403176323/",
@@ -24,7 +36,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 1
+      "sortOrder": 2
     },
     {
       "id": "deck-032",
@@ -36,7 +48,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 2
+      "sortOrder": 3
     },
     {
       "id": "deck-031",
@@ -48,7 +60,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 3
+      "sortOrder": 4
     },
     {
       "id": "deck-030",
@@ -59,7 +71,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 4
+      "sortOrder": 5
     },
     {
       "id": "deck-029",
@@ -71,7 +83,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 5
+      "sortOrder": 6
     },
     {
       "id": "deck-027",
@@ -83,7 +95,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 6
+      "sortOrder": 7
     },
     {
       "id": "deck-026",
@@ -95,7 +107,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 7
+      "sortOrder": 8
     },
     {
       "id": "deck-028",
@@ -106,7 +118,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 14
+      "sortOrder": 15
     },
     {
       "id": "deck-025",
@@ -118,7 +130,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 9
+      "sortOrder": 10
     },
     {
       "id": "deck-001",
@@ -129,7 +141,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 11
+      "sortOrder": 12
     },
     {
       "id": "deck-002",
@@ -140,7 +152,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 12
+      "sortOrder": 13
     },
     {
       "id": "deck-003",
@@ -151,7 +163,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 10
+      "sortOrder": 11
     },
     {
       "id": "deck-004",
@@ -162,7 +174,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 13
+      "sortOrder": 14
     },
     {
       "id": "deck-005",
@@ -173,7 +185,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 8
+      "sortOrder": 9
     },
     {
       "id": "deck-006",
@@ -185,7 +197,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 15
+      "sortOrder": 16
     },
     {
       "id": "deck-007",
@@ -196,7 +208,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 16
+      "sortOrder": 17
     },
     {
       "id": "deck-008",
@@ -207,7 +219,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 17
+      "sortOrder": 18
     },
     {
       "id": "deck-009",
@@ -218,7 +230,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 18
+      "sortOrder": 19
     },
     {
       "id": "deck-010",
@@ -229,7 +241,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 19
+      "sortOrder": 20
     },
     {
       "id": "deck-011",
@@ -240,7 +252,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 20
+      "sortOrder": 21
     },
     {
       "id": "deck-013",
@@ -251,7 +263,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 21
+      "sortOrder": 22
     },
     {
       "id": "deck-014",
@@ -262,7 +274,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 22
+      "sortOrder": 23
     },
     {
       "id": "deck-015",
@@ -273,7 +285,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 23
+      "sortOrder": 24
     },
     {
       "id": "deck-022",
@@ -284,7 +296,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 24
+      "sortOrder": 25
     },
     {
       "id": "deck-023",
@@ -295,7 +307,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 25
+      "sortOrder": 26
     },
     {
       "id": "deck-024",
@@ -306,7 +318,7 @@
       "aspectRatio": "9:16",
       "featured": false,
       "status": "published",
-      "sortOrder": 26
+      "sortOrder": 27
     }
   ]
 }
