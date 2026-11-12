@@ -14,6 +14,16 @@
       "status": "published"
     },
     {
+      "id": "feature-004",
+      "title": "30th GJA Awards: Journalists urged to uphold professionalism",
+      "platform": "youtube",
+      "video_id": "Jm5ze4JRjqw",
+      "category": "Politics",
+      "date": "November 11, 2026",
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
       "id": "feature-002",
       "title": "Vice President launches Government's flagship Foundational Learning Agenda",
       "platform": "facebook",
@@ -21,7 +31,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Foundational-Learning-Agenda.jpg",
       "category": "Education",
       "date": "November 11, 2026",
-      "sortOrder": 2,
+      "sortOrder": 3,
       "status": "published"
     },
     {
@@ -32,7 +42,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Slovakia.jpg",
       "category": "Politics",
       "date": "November 11, 2026",
-      "sortOrder": 3,
+      "sortOrder": 4,
       "status": "published"
     }
   ]
