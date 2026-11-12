@@ -1,11 +1,10 @@
-
 {
   "version": "1.0",
   "featured": "feature-001",
   "videos": [
     {
       "id": "feature-001",
-      "title": "President Mahama attends Remmembrance Day observance at the Military Cemetery, Osu",
+      "title": "President Mahama attends Remembrance Day observance at the Military Cemetery, Osu",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1128628106727655/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Remembrance-Day-2026-1-e1794416601272.jpg",
@@ -16,7 +15,7 @@
     },
     {
       "id": "feature-002",
-      "title": "Vice President launches Government’s flagship Foundational Learning Agenda",
+      "title": "Vice President launches Government's flagship Foundational Learning Agenda",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1632731775004601/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Foundational-Learning-Agenda.jpg",
@@ -27,7 +26,7 @@
     },
     {
       "id": "feature-003",
-      "title": "Vice President launches Government’s flagship Foundational Learning Agenda",
+      "title": "Vice President launches Government's flagship Foundational Learning Agenda",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/984164470974109/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Slovakia.jpg",
@@ -35,7 +34,6 @@
       "date": "November 11, 2026",
       "sortOrder": 3,
       "status": "published"
-    },
-    
+    }
   ]
 }
