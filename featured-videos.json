@@ -3,6 +3,17 @@
   "featured": "feature-001",
   "videos": [
     {
+      "id": "feature-005",
+      "title": "Dr Amin Adam: NDC's New Economy Policy is 24-Hour Economy Policy repackaged",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1785059672794694/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/NPP-reaction-to-2027-Budget.jpg",
+      "category": "Politics",
+      "date": "November 13, 2026",
+      "sortOrder": 1,
+      "status": "published"
+    },  
+    {
       "id": "feature-001",
       "title": "President Mahama attends Remembrance Day observance at the Military Cemetery, Osu",
       "platform": "facebook",
@@ -10,7 +21,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Remembrance-Day-2026-1-e1794416601272.jpg",
       "category": "Politics",
       "date": "November 11, 2026",
-      "sortOrder": 1,
+      "sortOrder": 2,
       "status": "published"
     },
     {
@@ -20,7 +31,7 @@
       "video_id": "Jm5ze4JRjqw",
       "category": "Politics",
       "date": "November 11, 2026",
-      "sortOrder": 2,
+      "sortOrder": 3,
       "status": "published"
     },
     {
@@ -31,7 +42,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Foundational-Learning-Agenda.jpg",
       "category": "Education",
       "date": "November 11, 2026",
-      "sortOrder": 3,
+      "sortOrder": 4,
       "status": "published"
     },
     {
