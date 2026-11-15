@@ -3,6 +3,17 @@
   "featured": "feature-001",
   "videos": [
     {
+      "id": "feature-009",
+      "title": "Western Region: NDC intends to keep all of its Parliamentary seats — Armah Kofi Buah",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1145898231322951/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Armah-Buah-1.jpg",
+      "category": "Politics",
+      "date": "November 14, 2026",
+      "sortOrder": 2,
+      "status": "published"
+    },
+    {
       "id": "feature-001",
       "title": "Upper East: Avoka confident of NDC victory in 2028 as party elects Regional Executive officers",
       "platform": "facebook",
@@ -14,33 +25,22 @@
       "status": "published"
     },
     {
-      "id": "feature-002",
+      "id": "feature-003",
       "title": "Mrs Linda Ocloo, Minister for Greater Accra urges unity as NDC elects Regional Executive officers",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1454886766804827/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Linda-Ocloo-NDC-Regional-elections-2026.jpg",
       "category": "Politics",
       "date": "November 13, 2026",
-      "sortOrder": 2,
+      "sortOrder": 3,
       "status": "published"
     },
     {
-      "id": "feature-003",
+      "id": "feature-004",
       "title": "Parliament: Majority MPs cheer, Minority MPs heckle as Finance Minister reads 2027 Budget",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1642635777599791/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/MPs-2027-Budget.jpg",
-      "category": "Politics",
-      "date": "November 13, 2026",
-      "sortOrder": 3,
-      "status": "published"
-    },  
-    {
-      "id": "feature-004",
-      "title": "Dr Amin Adam: NDC's New Economy Policy is 24-Hour Economy Policy repackaged",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/1785059672794694/",
-      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/NPP-reaction-to-2027-Budget.jpg",
       "category": "Politics",
       "date": "November 13, 2026",
       "sortOrder": 4,
@@ -48,20 +48,21 @@
     },  
     {
       "id": "feature-005",
+      "title": "Dr Amin Adam: NDC's New Economy Policy is 24-Hour Economy Policy repackaged",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1785059672794694/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/NPP-reaction-to-2027-Budget.jpg",
+      "category": "Politics",
+      "date": "November 13, 2026",
+      "sortOrder": 5,
+      "status": "published"
+    },  
+    {
+      "id": "feature-006",
       "title": "President Mahama attends Remembrance Day observance at the Military Cemetery, Osu",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1128628106727655/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Remembrance-Day-2026-1-e1794416601272.jpg",
-      "category": "Politics",
-      "date": "November 11, 2026",
-      "sortOrder": 5,
-      "status": "published"
-    },
-    {
-      "id": "feature-006",
-      "title": "30th GJA Awards: Journalists urged to uphold professionalism",
-      "platform": "youtube",
-      "video_id": "Jm5ze4JRjqw",
       "category": "Politics",
       "date": "November 11, 2026",
       "sortOrder": 6,
@@ -69,24 +70,34 @@
     },
     {
       "id": "feature-007",
-      "title": "Vice President launches Government's flagship Foundational Learning Agenda",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/1632731775004601/",
-      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Foundational-Learning-Agenda.jpg",
-      "category": "Education",
+      "title": "30th GJA Awards: Journalists urged to uphold professionalism",
+      "platform": "youtube",
+      "video_id": "Jm5ze4JRjqw",
+      "category": "Politics",
       "date": "November 11, 2026",
       "sortOrder": 7,
       "status": "published"
     },
     {
       "id": "feature-008",
+      "title": "Vice President launches Government's flagship Foundational Learning Agenda",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1632731775004601/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Foundational-Learning-Agenda.jpg",
+      "category": "Education",
+      "date": "November 11, 2026",
+      "sortOrder": 8,
+      "status": "published"
+    },
+    {
+      "id": "feature-009",
       "title": "Ghana, Slovakia to begin talks on visa waiver agreement",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/984164470974109/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Slovakia.jpg",
       "category": "Politics",
       "date": "November 11, 2026",
-      "sortOrder": 8,
+      "sortOrder": 9,
       "status": "published"
     }
   ]
