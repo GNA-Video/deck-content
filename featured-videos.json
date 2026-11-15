@@ -3,6 +3,17 @@
   "featured": "feature-001",
   "videos": [
     {
+      "id": "feature-010",
+      "title": "Ashanti Region: NDC Party delegates elect new Regional Executives at Baba Yara Stadium, Kumasi",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1832655694718577/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ashanti-NDC-Baba-Yara-Kumasi.jpg",
+      "category": "Politics",
+      "date": "November 14, 2026",
+      "sortOrder": 3,
+      "status": "published"
+    },
+    {
       "id": "feature-009",
       "title": "Western Region: NDC intends to keep all of its Parliamentary seats — Armah Kofi Buah",
       "platform": "facebook",
@@ -32,7 +43,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Linda-Ocloo-NDC-Regional-elections-2026.jpg",
       "category": "Politics",
       "date": "November 13, 2026",
-      "sortOrder": 3,
+      "sortOrder": 4,
       "status": "published"
     },
     {
@@ -43,7 +54,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/MPs-2027-Budget.jpg",
       "category": "Politics",
       "date": "November 13, 2026",
-      "sortOrder": 4,
+      "sortOrder": 5,
       "status": "published"
     },  
     {
@@ -54,7 +65,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/NPP-reaction-to-2027-Budget.jpg",
       "category": "Politics",
       "date": "November 13, 2026",
-      "sortOrder": 5,
+      "sortOrder": 6,
       "status": "published"
     },  
     {
@@ -65,7 +76,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Remembrance-Day-2026-1-e1794416601272.jpg",
       "category": "Politics",
       "date": "November 11, 2026",
-      "sortOrder": 6,
+      "sortOrder": 7,
       "status": "published"
     },
     {
@@ -75,7 +86,7 @@
       "video_id": "Jm5ze4JRjqw",
       "category": "Politics",
       "date": "November 11, 2026",
-      "sortOrder": 7,
+      "sortOrder": 8,
       "status": "published"
     },
     {
@@ -86,7 +97,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Foundational-Learning-Agenda.jpg",
       "category": "Education",
       "date": "November 11, 2026",
-      "sortOrder": 8,
+      "sortOrder": 9,
       "status": "published"
     },
     {
@@ -97,7 +108,7 @@
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Slovakia.jpg",
       "category": "Politics",
       "date": "November 11, 2026",
-      "sortOrder": 9,
+      "sortOrder": 10,
       "status": "published"
     }
   ]
