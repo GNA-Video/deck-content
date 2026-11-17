@@ -1,8 +1,9 @@
+
 {
   "version": "1.0",
   "featured": "feature-001",
   "videos": [
-    {      
+    {
       "id": "feature-001",
       "title": "Resident of Ecomog, near Kwame Nkrumah Circle, recounts Monday night's fire",
       "platform": "facebook",
@@ -99,7 +100,7 @@
       "date": "November 13, 2026",
       "sortOrder": 9,
       "status": "published"
-    },  
+    },
     {
       "id": "feature-010",
       "title": "Dr Amin Adam: NDC's New Economy Policy is 24-Hour Economy Policy repackaged",
@@ -110,6 +111,6 @@
       "date": "November 13, 2026",
       "sortOrder": 10,
       "status": "published"
-    }  
+    }
   ]
 }
