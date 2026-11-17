@@ -2,55 +2,55 @@
   "version": "1.0",
   "featured": "feature-001",
   "videos": [
-    {
+    {      
       "id": "feature-001",
-      "title": "High Court dismisses Chairman Wontumi's Bail Pending Appeal application",
-      "platform": "youtube",
-      "video_id": "J-S9gZ0MV3c",
-      "category": "Courts & Crime",
-      "date": "November 16, 2026",
+      "title": "Resident of Ecomog, near Kwame Nkrumah Circle, recounts Monday night's fire",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1600804635424142/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Circle-STC-Fire-2.jpg",
+      "category": "Environment",
+      "date": "November 17, 2026",
       "sortOrder": 1,
       "status": "published"
     },
     {
       "id": "feature-002",
+      "title": "Residents prepare to rebuild their dwellings after Monday night's fire at Ecomog, Kwame Nkrumah Circle",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/2220250618864391/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Circle-STC-Fire-1.jpg",
+      "category": "Social",
+      "date": "November 17, 2026",
+      "sortOrder": 2,
+      "status": "published"
+    },
+        {
+      "id": "feature-003",
+      "title": "High Court dismisses Chairman Wontumi's Bail Pending Appeal application",
+      "platform": "youtube",
+      "video_id": "J-S9gZ0MV3c",
+      "category": "Courts & Crime",
+      "date": "November 16, 2026",
+      "sortOrder": 3,
+      "status": "published"
+    },
+    {
+      "id": "feature-004",
       "title": "COP31: Dr Agyeman-Rawlings presents three proposals to African Environment Ministers",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1630147462462613/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-09.07.26-1-e1794821996467.jpeg",
       "category": "Environment",
       "date": "November 16, 2026",
-      "sortOrder": 2,
-      "status": "published"
-    },
-    {
-      "id": "feature-003",
-      "title": "Upper East: Avoka confident of NDC victory in 2028 as party elects Regional Executive officers",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/1140914218544657/",
-      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Cletus-Avoka-NDC-Upper-East.jpg",
-      "category": "Politics",
-      "date": "November 14, 2026",
-      "sortOrder": 3,
-      "status": "published"
-    },
-    {
-      "id": "feature-004",
-      "title": "Western Region: NDC intends to keep all of its Parliamentary seats — Armah Kofi Buah",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/1145898231322951/",
-      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Armah-Buah-1.jpg",
-      "category": "Politics",
-      "date": "November 14, 2026",
       "sortOrder": 4,
       "status": "published"
     },
     {
       "id": "feature-005",
-      "title": "Ashanti Region: NDC Party delegates elect new Regional Executives at Baba Yara Stadium, Kumasi",
+      "title": "Upper East: Avoka confident of NDC victory in 2028 as party elects Regional Executive officers",
       "platform": "facebook",
-      "url": "https://www.facebook.com/reel/1832655694718577/",
-      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ashanti-NDC-Baba-Yara-Kumasi.jpg",
+      "url": "https://www.facebook.com/reel/1140914218544657/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Cletus-Avoka-NDC-Upper-East.jpg",
       "category": "Politics",
       "date": "November 14, 2026",
       "sortOrder": 5,
@@ -58,57 +58,58 @@
     },
     {
       "id": "feature-006",
+      "title": "Western Region: NDC intends to keep all of its Parliamentary seats — Armah Kofi Buah",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1145898231322951/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Armah-Buah-1.jpg",
+      "category": "Politics",
+      "date": "November 14, 2026",
+      "sortOrder": 6,
+      "status": "published"
+    },
+    {
+      "id": "feature-007",
+      "title": "Ashanti Region: NDC Party delegates elect new Regional Executives at Baba Yara Stadium, Kumasi",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1832655694718577/",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ashanti-NDC-Baba-Yara-Kumasi.jpg",
+      "category": "Politics",
+      "date": "November 14, 2026",
+      "sortOrder": 7,
+      "status": "published"
+    },
+    {
+      "id": "feature-008",
       "title": "Mrs Linda Ocloo, Minister for Greater Accra urges unity as NDC elects Regional Executive officers",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1454886766804827/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Linda-Ocloo-NDC-Regional-elections-2026.jpg",
       "category": "Politics",
       "date": "November 13, 2026",
-      "sortOrder": 6,
+      "sortOrder": 8,
       "status": "published"
     },
     {
-      "id": "feature-007",
+      "id": "feature-009",
       "title": "Parliament: Majority MPs cheer, Minority MPs heckle as Finance Minister reads 2027 Budget",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1642635777599791/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/MPs-2027-Budget.jpg",
       "category": "Politics",
       "date": "November 13, 2026",
-      "sortOrder": 7,
+      "sortOrder": 9,
       "status": "published"
     },  
     {
-      "id": "feature-008",
+      "id": "feature-010",
       "title": "Dr Amin Adam: NDC's New Economy Policy is 24-Hour Economy Policy repackaged",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1785059672794694/",
       "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/NPP-reaction-to-2027-Budget.jpg",
       "category": "Politics",
       "date": "November 13, 2026",
-      "sortOrder": 8,
+      "sortOrder": 010,
       "status": "published"
-    },  
-    {
-      "id": "feature-009",
-      "title": "President Mahama attends Remembrance Day observance at the Military Cemetery, Osu",
-      "platform": "facebook",
-      "url": "https://www.facebook.com/reel/1128628106727655/",
-      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Remembrance-Day-2026-1-e1794416601272.jpg",
-      "category": "Politics",
-      "date": "November 11, 2026",
-      "sortOrder": 9,
-      "status": "published"
-    },
-    {
-      "id": "feature-010",
-      "title": "30th GJA Awards: Journalists urged to uphold professionalism",
-      "platform": "youtube",
-      "video_id": "Jm5ze4JRjqw",
-      "category": "Politics",
-      "date": "November 11, 2026",
-      "sortOrder": 10,
-      "status": "published"
-    }
+    }  
   ]
 }
