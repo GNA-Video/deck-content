@@ -1,18 +1,8 @@
-
 {
   "schemaVersion": "1.0",
   "player": {
     "name": "Deck",
-    "brand": "GNA",
-    "defaultView": "feature"
-  },
-  "feature": {
-    "platform": "facebook",
-    "url": "https://www.facebook.com/reel/1128628106727655",
-    "title": "President John Mahama attends observance of Remembrance Day at the Military Cemetery, Osu",
-    "category": "Politics",
-    "date": "November 11, 2026",
-    "aspectRatio": "16:9"
+    "brand": "GNA"
   },
   "videos": [
     {
@@ -23,11 +13,10 @@
       "title": "Ghana beat Egypt 2–0 to reach Semi-Finals in WAFF Amputee Football World Cup 2026",
       "date": "November 20, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 1
     },
-     {
+    {
       "id": "deck-002",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1129611809665959/",
@@ -35,11 +24,10 @@
       "title": "Stonebwoy entertains guests at event to mark 78th birthday of King Charles III",
       "date": "November 18, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 2
     },
-     {
+    {
       "id": "deck-003",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1622285576304660/",
@@ -47,11 +35,10 @@
       "title": "President of Greater Accra Market Queens welcomes new Heritage Banknotes",
       "date": "November 16, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 3
     },
-     {
+    {
       "id": "deck-004",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1089835730757696/",
@@ -59,7 +46,6 @@
       "title": "Togbe Afede XIV, other dignitaries arrive at Heritage Series banknotes launch",
       "date": "November 13, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 4
     },
@@ -71,7 +57,6 @@
       "title": "Nigeria beat Japan 2–1 to win the 2026 FIFA U-17 Women's World Cup final",
       "date": "November 8, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 5
     },
@@ -82,7 +67,6 @@
       "title": "President Mahama urges support for TraffiTech-GH speed cameras, automated traffic law enforcement",
       "date": "November 6, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 6
     },
@@ -94,7 +78,6 @@
       "title": "Economy: Highlights of the 132nd Meeting of the Monetary Policy Committee ",
       "date": "November 5, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 7
     },
@@ -106,7 +89,6 @@
       "title": "James Talarico becomes the first Democrat elected to the US Senate from Texas in 38 years",
       "date": "November 4, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 8
     },
@@ -118,7 +100,6 @@
       "title": "Parliament: Speaker walks Abu Jinapor out of Chamber over diplomatic passport allegations",
       "date": "November 3, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 9
     },
@@ -130,7 +111,6 @@
       "title": "Pope Leo XIV: The world does not need AI that diminishes humanity. Rather, it needs...  ",
       "date": "November 1, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 10
     },
@@ -142,7 +122,6 @@
       "title": "Ghana's Black Maidens practise their celebratory dance during FIFA U-17 WWC in Morocco",
       "date": "November 1, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 11
     },
@@ -153,7 +132,6 @@
       "title": "Ghana deeply concerned about continued Economic sanctions on Cuba — Malor",
       "date": "October 29, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 12
     },
@@ -165,7 +143,6 @@
       "title": "Ghana beat Argentina to qualify for the FIFA U-17 WWC Quarter-finals in Morocco",
       "date": "October 28, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 13
     },
@@ -177,7 +154,6 @@
       "title": "The Eyes of Ghana: Rev. Chris Hesse on filming the life of Kwame Nkrumah",
       "date": "October 27, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 14
     },
@@ -189,7 +165,6 @@
       "title": "We are friends to all, and enemies to none — President Mahama",
       "date": "October 21, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 15
     },
@@ -200,7 +175,6 @@
       "title": "\"ShattaFest26: Sister Afia and Shatta Wale perform their song Jeje",
       "date": "October 19, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 16
     },
@@ -212,7 +186,6 @@
       "title": "The British Museum must be part of Reparative Justice – Lord Paul Boateng",
       "date": "October 18, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 17
     },
@@ -223,7 +196,6 @@
       "title": "Alleged $1.7bn loss: Auditor-General made no such finding — Gold Board CEO",
       "date": "October 13, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 18
     },
@@ -234,7 +206,6 @@
       "title": "Fiscal Discipline: Ghana now doing infrastructural projects without borrowing",
       "date": "October 11, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 19
     },
@@ -245,7 +216,6 @@
       "title": "Ghana-China trade: Importers can now pay in Cedis from Ghana",
       "date": "October 7, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 20
     },
@@ -256,7 +226,6 @@
       "title": "President Mahama on Cultural Properties, Restitution and Reparatory Justice",
       "date": "September 29, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 21
     },
@@ -268,7 +237,6 @@
       "title": "Deputy Minister for Agric responds to reports of tomato crop glut in Volta",
       "date": "September 21, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 22
     },
@@ -279,7 +247,6 @@
       "title": "\"Minister commends Mr Albert Kofi Owusu for effective leadership at GNA",
       "date": "September 17, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 23
     },
@@ -290,7 +257,6 @@
       "title": "\"Accra–Kumasi Expressway to cut travel time to 2 hours — Mahama",
       "date": "September 14, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 24
     },
@@ -301,7 +267,6 @@
       "title": "\"Chief of Kwaso lauds Mahama for Accra–Kumasi Expressway Project",
       "date": "September 14, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 25
     },
@@ -312,7 +277,6 @@
       "title": "\"Is this achievable?\": Dr Forson reacts to 20 weeks Mission timeline - Brig. Gen. Wiafe",
       "date": "September 14, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 26
     },
@@ -323,7 +287,6 @@
       "title": "Protecting the public purse, Restoring confidence...",
       "date": "September 1, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 27
     },
@@ -334,7 +297,6 @@
       "title": "Residents express frustration after closure of Kaneshie footbridge for repairs",
       "date": "May 18, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 28
     },
@@ -345,7 +307,6 @@
       "title": "How does Bank of Ghana's Monetary Policy Committee decide its Rate?",
       "date": "May 16, 2026",
       "aspectRatio": "9:16",
-      "featured": false,
       "status": "published",
       "sortOrder": 29
     }
