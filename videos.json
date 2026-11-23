@@ -6,6 +6,17 @@
   },
   "videos": [
     {
+      "id": "deck-001",
+      "platform": "facebook",
+      "url": "https://www.facebook.com/reel/1146989561353753",
+      "thumbnail": "https://gna.org.gh/web/wp-content/uploads/2026/11/Ghana-Black-Challenge-Amputee-Football-World-Cup-e1795422239132.jpg",
+      "title": "Ghana are Champions of the WAFF Amputee Football World Cup 2026",
+      "date": "November 23, 2026",
+      "aspectRatio": "9:16",
+      "status": "published",
+      "sortOrder": 1
+    },
+    {
       "id": "deck-002",
       "platform": "facebook",
       "url": "https://www.facebook.com/reel/1868724307598094/",
